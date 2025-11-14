@@ -180,3 +180,16 @@ input:focus {
   text-align: left;
   max-width: 800px;
 }
+
+a:link {
+  color: #ee4444; /* Unvisited links */
+}
+a:visited {
+  color: #ee4444; /* Visited links */
+}
+a:hover {
+  text-decoration: underline; /* On mouse hover */
+}
+a:active {
+  color: #ee4444; /* When clicked */
+}
